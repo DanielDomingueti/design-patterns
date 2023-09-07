@@ -9,6 +9,9 @@ import java.util.Scanner;
 
 public class GearHandlerExecution {
 
+    //use case: multiple if else() statement at once
+    //behavioral design pattern
+
     public static void main(String[] args) {
         GearHandler firstGearHandler = new FirstGearHandler();
         GearHandler secondGearHandler = new SecondGearHandler();
